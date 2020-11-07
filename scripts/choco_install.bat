@@ -13,4 +13,3 @@ choco install -y vlc
 choco install -y nodejs
 
 choco install -y visualstudio2019community
-choco install -y visualstudio2019-workload-xamarinbuildtools
